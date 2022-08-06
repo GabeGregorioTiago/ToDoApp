@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ToDoApp/static/css/main.4837b37e.css",
-    "main.js": "/ToDoApp/static/js/main.7fbb86b3.js",
+    "main.js": "/ToDoApp/static/js/main.680c09a5.js",
     "static/js/787.c1112931.chunk.js": "/ToDoApp/static/js/787.c1112931.chunk.js",
     "static/media/62.png": "/ToDoApp/static/media/62.a6be5dff7f8de4017f88.png",
     "static/media/64.png": "/ToDoApp/static/media/64.f2d1d7178d15716918b7.png",
@@ -14,7 +14,6 @@
     "static/media/56.png": "/ToDoApp/static/media/56.42e3fde215fad9e61d23.png",
     "static/media/55.png": "/ToDoApp/static/media/55.e483c62c4f094dd79545.png",
     "static/media/65.png": "/ToDoApp/static/media/65.60d157035c2d1bcfead4.png",
-    "static/media/Light-remove.png": "/ToDoApp/static/media/Light-remove.97cebf6340998d238d9e.png",
     "static/media/61.png": "/ToDoApp/static/media/61.584fd6f65ff996366026.png",
     "static/media/24.png": "/ToDoApp/static/media/24.117e2b14600d3e5552e1.png",
     "static/media/39.png": "/ToDoApp/static/media/39.dec81004100bbbdd8fc3.png",
@@ -71,17 +70,15 @@
     "static/media/9.png": "/ToDoApp/static/media/9.7fbdd12f9c27db6e3fb7.png",
     "static/media/29.png": "/ToDoApp/static/media/29.6d65d4646d400e2b7046.png",
     "static/media/36.png": "/ToDoApp/static/media/36.43efb5951e637ac9f03c.png",
-    "static/media/apple.jpg": "/ToDoApp/static/media/apple.4732a629d26ba8d43d25.jpg",
-    "static/media/black.png": "/ToDoApp/static/media/black.eadeca03cea44d60727f.png",
     "static/media/b.jpg": "/ToDoApp/static/media/b.ae77548439f2521c0356.jpg",
     "static/media/Death_Note_capa.jpg": "/ToDoApp/static/media/Death_Note_capa.77f18bf2c5a74767ebf8.jpg",
     "index.html": "/ToDoApp/index.html",
     "main.4837b37e.css.map": "/ToDoApp/static/css/main.4837b37e.css.map",
-    "main.7fbb86b3.js.map": "/ToDoApp/static/js/main.7fbb86b3.js.map",
+    "main.680c09a5.js.map": "/ToDoApp/static/js/main.680c09a5.js.map",
     "787.c1112931.chunk.js.map": "/ToDoApp/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4837b37e.css",
-    "static/js/main.7fbb86b3.js"
+    "static/js/main.680c09a5.js"
   ]
 }
