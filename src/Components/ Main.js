@@ -70,9 +70,8 @@ import regraSixtyFive from "../Figures/65.png"
 import regraSixtySix from "../Figures/66.png"
 import regraSixtySeven from "../Figures/67.png"
 import regraSixtyEight from "../Figures/68.png"
-import pagina from "../Figures/black.png"
-import raito from "../Figures/Light-remove.png"
-import ryuk from "../Figures/apple.jpg"
+
+
 import r from "../Figures/b.jpg"
 const Container = styled.main`
     display:flex;
@@ -120,19 +119,25 @@ const Container = styled.main`
 
          img{
           width:25vw;
-          height: 85vh;
+          height: 80vh;
          }
          h4{
             color:white;
          }
+         div{
+            
+             width:29vw;
+        
+         }
          button{
          
            width:1.5vw;
-           font-size:0.vw;
+           font-size:1vw;
            color:white;
            background-color:black;
            border:none;
            cursor:pointer;
+          
         }
         
          @media screen and (min-width: 360px) and (max-width: 480px){
@@ -141,12 +146,11 @@ const Container = styled.main`
      
   `;
   const Page = styled.section`
-        width:30%;
-        height: 100vh;
+          width:30vw;
+          height:95vh;
+    
 
-       background-image: url(${pagina});
-       background-repeat: no-repeat;
-       background-size: cover;
+     
        h2{
         color:white;
 
@@ -155,10 +159,11 @@ const Container = styled.main`
       input{
          background-color:black;
          color:white;
-         margin-top:25vh;
+         
          margin-left:4vw;
          border:none;
-         width:12.9vw;
+         width:17vw;
+      
          
       }
       button{
@@ -186,6 +191,7 @@ const Container = styled.main`
             margin-top:0;
             width:43vw;
             margin-left:10vw;
+            
          }
          button{
           margin-left:3vw;
@@ -774,7 +780,7 @@ changeImagemSixtyEight = () =>{
              <img src={this.state.regraOne} alt=""/>
            </figure>
             
-            <>
+            <div>
             <button onClick={this.changeImagemOne}>1</button>
             <button onClick={this.changeImagemTwo}>2</button>
             <button onClick={this.changeImagemThree}>3</button>
@@ -842,7 +848,7 @@ changeImagemSixtyEight = () =>{
             <button onClick={this.changeImagemSixtySix}>66</button>
             <button onClick={this.changeImagemSixtySeven}>67</button>
             <button onClick={this.changeImagemSixtyEight}>68</button>
-            </>
+            </div>
             
         </Rules>
        
